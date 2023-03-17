@@ -1,5 +1,5 @@
 import { combineReducers, configureStore } from "@reduxjs/toolkit";
-import { alarmAPI } from './redux/services/AlarmService';
+import { alarmAPI } from './services/AlarmService';
 import alarmReducer from './redux/reducers/alarmSlice';
 import menuReducer from './redux/reducers/menuSlice';
 

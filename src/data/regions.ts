@@ -203,6 +203,7 @@ export const regions: ISvgRegion[] = [
     },
     {
         "id": 26,
+        "title": "Крим - це Україна",
         "disabled": true,
         "titleX": 627,
         "titleY": 608,

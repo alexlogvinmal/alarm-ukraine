@@ -1,5 +1,5 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/dist/query/react'
-import { API_KEY, API_URL } from '../../utils/const'
+import { API_KEY, API_URL } from '../utils/const'
 
 export const alarmAPI = createApi({
     reducerPath: 'alarmAPI',

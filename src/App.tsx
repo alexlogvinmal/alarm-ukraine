@@ -1,5 +1,8 @@
+import './style.scss'
 import { setupStore } from './store';
 import { Provider } from 'react-redux'
+import {Map} from '../src/components/Map/Map'
+
 
 function App() {
 
@@ -7,7 +10,7 @@ function App() {
 
   return (
     <Provider store={store}>
-      <h1>Hello</h1>
+      <Map/>
     </Provider>
   );
 }
