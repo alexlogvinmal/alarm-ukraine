@@ -1,10 +1,14 @@
-
+import { setupStore } from './store';
+import { Provider } from 'react-redux'
 
 function App() {
+
+  const store = setupStore()
+
   return (
-    <div className="App">
-        111
-    </div>
+    <Provider store={store}>
+      <h1>Hello</h1>
+    </Provider>
   );
 }
 
