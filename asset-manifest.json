@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alarm-ukraine/static/css/main.5d9eca73.css",
+    "main.js": "/alarm-ukraine/static/js/main.29dbc1ba.js",
+    "index.html": "/alarm-ukraine/index.html",
+    "main.5d9eca73.css.map": "/alarm-ukraine/static/css/main.5d9eca73.css.map",
+    "main.29dbc1ba.js.map": "/alarm-ukraine/static/js/main.29dbc1ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d9eca73.css",
+    "static/js/main.29dbc1ba.js"
+  ]
+}
